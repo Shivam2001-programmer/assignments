@@ -4,4 +4,4 @@
 1. git clone
 2. npm i
 3. npm start
-4. endpoint :- http://localhost:3000/translate (POST REQUEST)
+4. Endpoint :- http://localhost:3000/translate (POST REQUEST) ( CHECK WITH POSTMAN THIS API)
