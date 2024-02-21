@@ -4,7 +4,7 @@ const { translate } = require("@vitalets/google-translate-api");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Middleware to parse JSON request body
+
 app.use(express.json());
 
 // POST endpoint for translation
